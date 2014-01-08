@@ -3,7 +3,7 @@
 
         <!-- Device Repos from hsr0 -->
         <project path="device/sony/nanhu_ds" name="hsr0/android_device_sony_nanhu_ds" revision="cm-11.0"/>
-        <project path="device/sony/tamsui-common" name="hsr0/android_device_sony_tamsui-common" revision="cm-11.0"/>
+        <project path="device/sony/tamsui-common" name="TamsuiCM11/android_device_sony_tamsui-common" revision="cm-11.0"/>
         <project path="kernel/sony/nanhu_ds" name="hsr0/android_kernel_sony_msm7x27a" revision="cm-11.0"/>
         <project path="vendor/sony/nanhu_ds" name="hsr0/android_vendor_sony_nanhu_ds" revision="cm-11.0"/>
 
